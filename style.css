@@ -161,6 +161,7 @@ body{
 .cerimg p{
     border-top: 1px solid white;
     padding-top: 20px;
+    color: rgba(242, 235, 235, 0.5);
 }
 
 .cerimg img{
