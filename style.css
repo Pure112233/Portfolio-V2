@@ -190,3 +190,16 @@ body{
     font-weight: 500;
     letter-spacing: 1px;
 }
+
+
+@media (max-width: 600px){
+    .boxcer{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 400px){
+    .boxcer{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
